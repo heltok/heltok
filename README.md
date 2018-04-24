@@ -1,5 +1,5 @@
 ### Personal website
 #### Built with...
-* Based on a HTML-template by [HTML5UP](https://html5up.net)
-* Background image taken from [UNSPLASHED](https://unsplash.com/)
+* [Skeleton](http://getskeleton.com/) Framework
+* [Skeleton Sticky Footer](https://github.com/mahmoud/skeleton_sticky_footer)
 * Code written in [ATOM](https://atom.io/)
